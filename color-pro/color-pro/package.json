@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://pastaChaeng.github.io/color_palette_generator/",
+  "homepage": "https://pastaChaeng.github.io/color_palette_generator/",
 
   "scripts": {
     "dev": "vite",
